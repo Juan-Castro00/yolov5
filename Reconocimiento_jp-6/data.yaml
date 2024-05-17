@@ -1,0 +1,13 @@
+names:
+- Juan_Pablo
+- Persona_desconocida
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: reconocimiento_jp
+  url: https://universe.roboflow.com/juanprogramator/reconocimiento_jp/dataset/6
+  version: 6
+  workspace: juanprogramator
+test: ../test/images
+train: Reconocimiento_jp-6/train/images
+val: Reconocimiento_jp-6/valid/images
